@@ -16,3 +16,18 @@ body.impress-supported .fallback-message {
   height:  700px;
   width:   900px;
 }
+
+.sm-src {
+  height: 300px;
+  width:  1400px;
+}
+
+.md-src {
+  height: 500px;
+  width:  1400px;
+}
+
+.lg-src {
+  height: 700px;
+  width:  1400px;
+}
