@@ -1,7 +1,18 @@
 body {
-  background-color: #FDFDFD;
+  background-color:  #252c31;
+  color:             #F0F0F0;
+  font-size:         50px;
+}
+
+h1 {
+  font-size:  120px;
 }
 
 body.impress-supported .fallback-message {
   display: none;
+}
+
+.step {
+  height:  700px;
+  width:   900px;
 }
